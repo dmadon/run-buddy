@@ -20,4 +20,4 @@ https://lernantino.github.io/run-buddy/
 Made with ❤️ by Deanna Madon
 
 
-### ©️2019 Run Buddy, Inc
+### ©️2019 Run Buddy, Inc :()
